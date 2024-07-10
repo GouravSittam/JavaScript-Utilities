@@ -4,4 +4,5 @@ const student={
     cgpa:7.59,
     isPass:true
 }
+student["age"]=student["age"]+1;
 console.log(student);
