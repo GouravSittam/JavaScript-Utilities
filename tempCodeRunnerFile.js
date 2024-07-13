@@ -1,6 +1,5 @@
-let sum=0;
-// let n=100;
-// for(let i=1;i<=n;i++){
-//     sum=sum+i;
+for(let i=0;i<=100;i++){
+//     if(i%2==0){
+//     console.log("num = " + i ); 
 // }
-// console.log("Sum is "+sum);
+// }
