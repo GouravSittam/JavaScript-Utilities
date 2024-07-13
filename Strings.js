@@ -21,5 +21,15 @@ let obj={
 console.log(`the cost of ${obj.item} is ${obj.price} ruppes`);
 
 
+//escape characters
+console.log("Hello\nWorld")
+console.log("Hello\tWorld")
+
+
+//String Methods
+let hh="      grv cdry in        js ";
+console.log(hh.trim())
+
+
 
 
